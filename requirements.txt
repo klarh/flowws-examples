@@ -1,0 +1,11 @@
+flowws
+flowws-analysis
+flowws-freud
+freud-analysis
+gtar
+hoomd_flowws
+matplotlib
+plato-draw
+pyriodic-aflow
+pyside2
+vispy
