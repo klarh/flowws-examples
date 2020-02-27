@@ -31,7 +31,7 @@ install -r requirements.txt`:
 - plato-draw
 - pyriodic-aflow
 - pyside2
-- vispy (if using a notebook, make sure to follow the [installation instructions](http://vispy.org/installation.html)
+- vispy (if using a notebook, make sure to follow the [installation instructions](http://vispy.org/installation.html))
 
 # Running on Google Colab
 
