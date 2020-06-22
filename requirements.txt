@@ -1,6 +1,7 @@
 flowws
 flowws-analysis
 flowws-freud
+flowws-unit-cell
 freud-analysis
 gtar
 hoomd_flowws

@@ -12,11 +12,12 @@ dependencies:
       - matplotlib
       - pythreejs
       - vispy
-      - git+https://github.com/glotzerlab/plato#egg=plato-draw
+      - plato-draw
       - pyriodic-aflow
       - pyside2
       - gtar
       - flowws
-      - git+https://github.com/klarh/flowws-analysis
-      - git+https://github.com/klarh/flowws-freud
-      - git+https://github.com/klarh/hoomd_flowws
+      - flowws-analysis
+      - flowws-freud
+      - flowws-unit-cell
+      - hoomd_flowws
